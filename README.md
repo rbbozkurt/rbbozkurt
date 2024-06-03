@@ -15,7 +15,7 @@ I'm a Software Developer with a passion for web3 and blockchain development. I h
 
 - **Languages**: Java, Kotlin, Solidity, Rust, JavaScript, Python, C, C++, JavaScript
 - **Technologies**: Android, Web3, Blockchain, Smart Contracts, Docker, Firebase, AWS, Linux
-- **Tools**: Git, Gradle, Maven, Jira, Figma, CMake
+- **Tools**: Git, Gradle, Maven, Jira, Figma, CMake, Remix
 
 ## Projects
 

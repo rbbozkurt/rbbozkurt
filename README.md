@@ -40,18 +40,6 @@ I'm a Software Developer with a passion for web3 and blockchain development. I h
 
 **🔭**: Python, SciKit, XGBoost, PyTorch, NumPy, Pandas, AWS, Docker, APIs
 
-## Papers
-
-### [Gesture Recognition and Classification using Wearable Sensors](https://drive.google.com/file/d/1WfSnu2OfTXw9LAHDwLaoISJlL6RSttBF/view?usp=sharing)
-**🔍**: This thesis developed "Speller," an Android app that recognizes user gestures as alphabetic letters using smartphone sensors. The data is processed into Sensor Data and Summary Statistics datasets. Three machine learning models were tested, with LogisticRegression achieving the highest accuracy on the Sensor Data set.
-
-**🔭**: Java, Android, Python, Android Hardware, Firebase, SciKit, NumPy, Pandas, ONNX, Machine Learning
-
-### [Beyond Single Blockchain: Exploring Cross-Chain Transactions in Blockchain Technology](https://drive.google.com/file/d/1IAwp2FN58ywzrylxcAmwNb6iunX5Cjzm/view?usp=sharing)
-**🔍**: This survey paper analyzes significant contributions to secure and efficient cross-chain transactions, enabling seamless asset exchanges across blockchain networks, including Ethereum. It covers key concepts and protocols, highlighting state-of-the-art approaches and unresolved challenges in the field.
-
-**🔭**: Blockchain, Decentralized Finance, Cryptocurrency, Security Protocols, Ethereum
-
 ## Certifications
 
 - **Solidity for Beginners: Write and Test Smart Contracts**, Coursera Project Network

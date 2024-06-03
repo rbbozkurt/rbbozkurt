@@ -9,7 +9,6 @@ I'm a Software Developer with a passion for web3 and blockchain development. I h
 - 👯 I’m looking to collaborate on blockchain projects.
 - 💬 Ask me about Android development, blockchain, and software engineering.
 - 📫 How to reach me: [resitberkaybozkurt@gmail.com](mailto:resitberkaybozkurt@gmail.com)
-- ⚡ Fun fact: I have played basketball for 11 years and love watching EuroLeague.
 
 ## Skills
 

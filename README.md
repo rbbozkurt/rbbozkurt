@@ -21,7 +21,9 @@ I'm a Software Developer with a passion for web3 and blockchain development. I h
 
 ### [Web3Wheels](https://github.com/ZhectorSM/web3-wheels-app)
 **🔍**: Developed at Chainlink Hackathon 2024, this decentralized autonomous vehicle management system uses blockchain and AI technologies. Implemented reinforcement learning environments and developed the backend in Node.js.
-🚀 [Devpost](https://devpost.com/software/web3wheels)
+
+**🚀** [Devpost](https://devpost.com/software/web3wheels)
+
 **🔭**: JavaScript, Node.js, Solidity, Python, Gymnasium, NetworkX, FastAPI, Reinforcement Learning, Blockchain, Smart Contracts
 
 ### ShifPro App

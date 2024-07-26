@@ -4,7 +4,6 @@ I'm a Software Developer with a passion for web3 and blockchain development. I h
 
 ## About Me
 
-- 🔭 I’m currently working on the ShifPro App, a comprehensive application tailored for gas station management.
 - 🌱 I’m currently learning Solidity and Rust.
 - 👯 I’m looking to collaborate on blockchain projects.
 - 💬 Ask me about Android development, blockchain, and software engineering.

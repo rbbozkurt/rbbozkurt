@@ -1,17 +1,17 @@
 # Hi, I'm Berkay 👋
 
-I'm a Software Developer with a passion for web3 and blockchain development. I have extensive experience in Android app and software development and am looking to expand my skills in smart contracts and core blockchain technologies, and transition to Web3.
+I'm a Software Developer with a passion for web3 and blockchain development. I have extensive experience in Android app and software development and am looking to expand my skills in zkApps and core blockchain technologies, and transition to Web3.
 
 ## About Me
 
-- 🌱 I’m currently learning Solidity and Rust.
+- 🌱 I’m currently learning Typescript and Rust.
 - 👯 I’m looking to collaborate on blockchain projects.
 - 💬 Ask me about Android development, blockchain, and software engineering.
 - 📫 How to reach me: [resitberkaybozkurt@gmail.com](mailto:resitberkaybozkurt@gmail.com)
 
 ## Skills
 
-- **Languages**: Java, Kotlin, Solidity, Rust, JavaScript, Python, C, C++, JavaScript
+- **Languages**: Java, Kotlin, Solidity, Rust, JavaScript, Python, C
 - **Technologies**: Android, Web3, Blockchain, Smart Contracts, Docker, Firebase, AWS, Linux
 - **Tools**: Git, Gradle, Maven, Jira, Figma, CMake, Remix
 

@@ -1,6 +1,6 @@
 # Hi, I'm Berkay 👋
 
-I'm a Software Developer with a passion for web3 and blockchain development. I have extensive experience in Android app and software development and am looking to expand my skills in zkApps and core blockchain technologies, and transition to Web3.
+I'm a Software Developer with a passion for web3 and blockchain development. I have extensive experience in Android app and software development and am looking to expand my skills in backend development, zkApps, core blockchain technologies, and in general in Web3.
 
 ## About Me
 

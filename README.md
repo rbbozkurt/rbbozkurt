@@ -25,9 +25,9 @@ I'm a Software Developer with a passion for web3 and blockchain development. I h
 **🔭**: JavaScript, Node.js, Solidity, Python, Gymnasium, NetworkX, FastAPI, Reinforcement Learning, Blockchain, Smart Contracts
 
 ### ShifPro App
-**🔍**: A comprehensive application for gas station management, utilizing Jetpack Compose for UI. Features include pump card management, personnel scheduling, and shift report automation.
+**🔍**: Designed an innovative B2B web application for automatic shift balance calculation using the MERN stack (M).
 
-**🔭**: Jetpack Compose, Kotlin, Android, UI Design, Firebase
+**🔭**: mongoDB, Express.js, React, Node.js
 
 ### [PicsBlur App](https://play.google.com/store/apps/details?id=helikanon.photo.editor.photoblur&hl=en&gl=US)
 **🔍**: A photo editing application launched on Google Play Store with over 350,000 downloads. Features advanced photo editing and image manipulation techniques.
